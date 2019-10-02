@@ -1,0 +1,29 @@
+dates = {
+	1: '9/28/2019',
+	2: '10/5/2019',
+	3: '10/12/2019',
+	4: '10/19/2019',
+	5: '10/26/2019',
+	6: '11/2/2019',
+	7: '11/16/2019',
+	8: '11/23/2019',
+	9: '11/30/2019',
+	10: '12/7/2019',
+	11: '12/14/2019',
+	12: '12/21/2019'
+}
+
+descriptions = {
+	1: 'Deeplearning meetup/Introduction to deep learning, Neural Networks Basics',
+	2: 'Shallow neural networks',
+	3: 'Deep Neural Networks',
+	4: 'Practical aspects of Deep Learning',
+	5: 'Optimization algorithms, Hyperparameter tuning, Batch Normalization and Programming Frameworks',
+	6: 'ML Strategy (1) and ML Strategy (2)',
+	7: 'Foundations of Convolutional Neural Networks',
+	8: 'Deep convolutional models: case studies',
+	9: 'Object detection, Special applications: Face recognition & Neural style transfer',
+	10: 'Recurrent Neural Networks',
+	11: 'Natural Language Processing & Word Embeddings',
+	12: 'Sequence models & Attention mechanism'
+}
